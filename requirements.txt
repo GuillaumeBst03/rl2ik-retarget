@@ -1,0 +1,16 @@
+# Core scientific stack
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.8
+
+# Reinforcement Learning
+torch>=2.1
+stable-baselines3>=2.2
+gymnasium>=0.29
+
+# Utilities
+pyyaml>=6.0
+tqdm>=4.66
+
+# Optional (quality of life / debugging)
+ipython>=8.18
